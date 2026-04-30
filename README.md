@@ -263,4 +263,5 @@ Before any driver is approved on Darb, they go through:
 
 **Darb** — Graduation Project  
 A smart tourism platform built for Saudi Arabia 🇸🇦  
+by Aya Mohammed - Afrah Bashaddadah - Afnan Kamel
 Built with ❤️ to make travel safer and more accessible for everyone.
